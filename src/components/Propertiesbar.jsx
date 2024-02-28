@@ -131,7 +131,7 @@ const Lens = ({ onChange, curved, width }) => {
       <Customslider
           name="Width"
           description="Curved of the lens."
-          min={-40}
+          min={1}
           max={40}
           onChange={handleValueWidth}
           value={valueWidth}
