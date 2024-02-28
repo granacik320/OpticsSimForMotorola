@@ -12,7 +12,7 @@ In this simulator, you can experiment with light radiation, lenses, and various 
 Clone the project
 
 ```bash
-  git clone https://link-to-project
+  git clone https://github.com/granacik320/OpticsSimForMotorola.git
 ```
 
 Go to the project directory
