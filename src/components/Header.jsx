@@ -3,7 +3,6 @@ import {
     MenubarContent,
     MenubarItem,
     MenubarMenu,
-    MenubarShortcut,
     MenubarTrigger,
 } from "./ui/menubar"
 
