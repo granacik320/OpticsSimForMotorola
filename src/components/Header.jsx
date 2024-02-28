@@ -16,7 +16,7 @@ const Header = ({setAction}) => {
                     <MenubarTrigger>Tools</MenubarTrigger>
                     <MenubarContent>
                         <MenubarItem onSelect={() => setAction({action: null, type: "pointer"})}>
-                            Pointer <MenubarShortcut>⌘T</MenubarShortcut>
+                            Pointer
                         </MenubarItem>
                     </MenubarContent>
                 </MenubarMenu>
@@ -24,7 +24,7 @@ const Header = ({setAction}) => {
                     <MenubarTrigger>Mirrors</MenubarTrigger>
                     <MenubarContent>
                         <MenubarItem onSelect={() => setAction({action: "creating", type: "arc"})}>
-                            Arc <MenubarShortcut>⌘M</MenubarShortcut>
+                            Arc
                         </MenubarItem>
                         <MenubarItem onSelect={() => setAction({action: "creating", type: "mirrorline"})}>MirrorLine</MenubarItem>
                     </MenubarContent>
