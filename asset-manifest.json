@@ -1,13 +1,13 @@
 {
   "files": {
     "main.css": "/OpticsSimForMotorola/static/css/main.94a2bcb5.css",
-    "main.js": "/OpticsSimForMotorola/static/js/main.fc78ce68.js",
+    "main.js": "/OpticsSimForMotorola/static/js/main.12bbbe7a.js",
     "index.html": "/OpticsSimForMotorola/index.html",
     "main.94a2bcb5.css.map": "/OpticsSimForMotorola/static/css/main.94a2bcb5.css.map",
-    "main.fc78ce68.js.map": "/OpticsSimForMotorola/static/js/main.fc78ce68.js.map"
+    "main.12bbbe7a.js.map": "/OpticsSimForMotorola/static/js/main.12bbbe7a.js.map"
   },
   "entrypoints": [
     "static/css/main.94a2bcb5.css",
-    "static/js/main.fc78ce68.js"
+    "static/js/main.12bbbe7a.js"
   ]
 }
