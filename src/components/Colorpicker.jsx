@@ -120,7 +120,7 @@ const Colorpicker = ({onChange}) => {
             window.removeEventListener('mousemove', getSpectrumColor);
             canvas.removeEventListener('mousedown', handleMouseDown);
         }
-    }, [hueColor]);
+    }, [hueColor, createShadeSpectrum, getSpectrumColor]);
 
     return (
         <div>
