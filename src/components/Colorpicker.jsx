@@ -120,7 +120,8 @@ const Colorpicker = ({onChange}) => {
             window.removeEventListener('mousemove', getSpectrumColor);
             canvas.removeEventListener('mousedown', handleMouseDown);
         }
-    }, [hueColor, createShadeSpectrum, getSpectrumColor]);
+        // eslint-disable-next-line react-hooks/exhaustive-deps
+    }, [hueColor]);
 
     return (
         <div>
