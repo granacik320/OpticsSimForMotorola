@@ -36,7 +36,7 @@ Start the server
 
 ## Documentation
 
-[Documentation](https://linktodocumentation)
+[Documentation](https://panu320.mintlify.app/introduction)
 
 
 ## Screenshots
